@@ -21,5 +21,7 @@
 I love receiving feedback! I'm always looking to improve my solutioin. So if you have anything you'd like to mention, please email azeemabdulshaikh@gmail.com .
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
+---
+permalink: /index.html
+---
 
