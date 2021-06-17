@@ -16,7 +16,7 @@
 
 - View the optimal layout depending on device's screen size
 
-## Got feedback for us?
+## Got feedback for me?
 
 I love receiving feedback! I'm always looking to improve my solutioin. So if you have anything you'd like to mention, please email azeemabdulshaikh@gmail.com .
 
